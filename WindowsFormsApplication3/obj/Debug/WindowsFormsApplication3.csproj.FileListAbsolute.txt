@@ -8,18 +8,8 @@ c:\users\zgm95989\documents\visual studio 2013\Projects\WindowsFormsApplication3
 c:\users\zgm95989\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
 c:\users\zgm95989\documents\visual studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
 C:\Users\zgm95989\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
 C:\Users\zgm95989\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Exampple.exe.config
 C:\Users\zgm95989\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.exe.config
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.exe.config
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.exe
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.pdb
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\epics.Properties.Resources.resources
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Example.exe
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Example.pdb
-C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Epics.dll
 C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.exe.config
 C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Example.exe
 C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Example.pdb
@@ -30,3 +20,13 @@ C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debu
 C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
 C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\epics.Properties.Resources.resources
 C:\Users\rory\Desktop\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.exe.config
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.exe
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Example.pdb
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\Epics.dll
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\epics.Properties.Resources.resources
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Example.exe
+C:\Users\zgm95989\Desktop\VisualStudio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\Example.pdb
