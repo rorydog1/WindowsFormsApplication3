@@ -29,36 +29,44 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            Epics.AlarmColors alarmColors1 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors2 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors25 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors26 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors23 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors24 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors21 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors22 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors19 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors20 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors17 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors18 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors15 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors16 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors13 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors14 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors11 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors12 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors29 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors30 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors27 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors28 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors9 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors10 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors7 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors8 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors5 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors6 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors3 = new Epics.AlarmColors();
-            Epics.AlarmColors alarmColors4 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors39 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors40 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors49 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors50 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors51 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors52 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors53 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors54 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors55 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors56 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors57 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors58 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors59 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors60 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors61 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors62 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors63 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors64 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors65 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors66 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors67 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors68 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors69 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors70 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors71 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors72 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors73 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors74 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors75 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors76 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors41 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors42 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors43 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors44 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors45 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors46 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors47 = new Epics.AlarmColors();
+            Epics.AlarmColors alarmColors48 = new Epics.AlarmColors();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.epicsLabel1 = new Epics.Controls.EpicsLabel(this.components);
@@ -68,51 +76,54 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.radioButton12 = new System.Windows.Forms.RadioButton();
+            this.radioButton11 = new System.Windows.Forms.RadioButton();
+            this.radioButton10 = new System.Windows.Forms.RadioButton();
+            this.radioButton9 = new System.Windows.Forms.RadioButton();
+            this.radioButton8 = new System.Windows.Forms.RadioButton();
+            this.button1 = new System.Windows.Forms.Button();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.shape6 = new Epics.Controls.Shape(this.components);
+            this.shape5 = new Epics.Controls.Shape(this.components);
+            this.shape4 = new Epics.Controls.Shape(this.components);
             this.shape1 = new Epics.Controls.Shape(this.components);
             this.shape2 = new Epics.Controls.Shape(this.components);
             this.label3 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.shape4 = new Epics.Controls.Shape(this.components);
-            this.shape5 = new Epics.Controls.Shape(this.components);
-            this.shape6 = new Epics.Controls.Shape(this.components);
-            this.label8 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.epicsTextBox1 = new Epics.Controls.EpicsTextBox(this.components);
-            this.epicsTextBox2 = new Epics.Controls.EpicsTextBox(this.components);
-            this.epicsTextBox3 = new Epics.Controls.EpicsTextBox(this.components);
-            this.epicsTextBox4 = new Epics.Controls.EpicsTextBox(this.components);
-            this.label17 = new System.Windows.Forms.Label();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.label22 = new System.Windows.Forms.Label();
-            this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.radioButton2 = new System.Windows.Forms.RadioButton();
-            this.radioButton3 = new System.Windows.Forms.RadioButton();
-            this.radioButton4 = new System.Windows.Forms.RadioButton();
-            this.radioButton5 = new System.Windows.Forms.RadioButton();
-            this.radioButton6 = new System.Windows.Forms.RadioButton();
-            this.radioButton7 = new System.Windows.Forms.RadioButton();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.radioButton8 = new System.Windows.Forms.RadioButton();
-            this.radioButton9 = new System.Windows.Forms.RadioButton();
-            this.radioButton10 = new System.Windows.Forms.RadioButton();
-            this.radioButton11 = new System.Windows.Forms.RadioButton();
-            this.radioButton12 = new System.Windows.Forms.RadioButton();
-            this.label18 = new System.Windows.Forms.Label();
-            this.radioButton17 = new System.Windows.Forms.RadioButton();
-            this.radioButton18 = new System.Windows.Forms.RadioButton();
-            this.epicsLabel2 = new Epics.Controls.EpicsLabel(this.components);
-            this.epicsLabel3 = new Epics.Controls.EpicsLabel(this.components);
-            this.epicsLabel4 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsMenuButton4 = new Epics.Controls.EpicsMenuButton(this.components);
+            this.epicsMenuButton3 = new Epics.Controls.EpicsMenuButton(this.components);
+            this.epicsMenuButton2 = new Epics.Controls.EpicsMenuButton(this.components);
+            this.label19 = new System.Windows.Forms.Label();
+            this.label16 = new System.Windows.Forms.Label();
+            this.label15 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
+            this.epicsMenuButton1 = new Epics.Controls.EpicsMenuButton(this.components);
             this.epicsLabel5 = new Epics.Controls.EpicsLabel(this.components);
-            this.epicsLabel6 = new Epics.Controls.EpicsLabel(this.components);
-            this.epicsLabel7 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel4 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel3 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel2 = new Epics.Controls.EpicsLabel(this.components);
+            this.label17 = new System.Windows.Forms.Label();
+            this.epicsTextBox4 = new Epics.Controls.EpicsTextBox(this.components);
+            this.epicsTextBox3 = new Epics.Controls.EpicsTextBox(this.components);
+            this.epicsTextBox2 = new Epics.Controls.EpicsTextBox(this.components);
+            this.epicsTextBox1 = new Epics.Controls.EpicsTextBox(this.components);
+            this.label13 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.radioButton7 = new System.Windows.Forms.RadioButton();
+            this.radioButton6 = new System.Windows.Forms.RadioButton();
+            this.radioButton5 = new System.Windows.Forms.RadioButton();
+            this.radioButton4 = new System.Windows.Forms.RadioButton();
+            this.radioButton3 = new System.Windows.Forms.RadioButton();
+            this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.radioButton1 = new System.Windows.Forms.RadioButton();
+            this.label22 = new System.Windows.Forms.Label();
+            this.groupBox5 = new System.Windows.Forms.GroupBox();
             this.groupBox6 = new System.Windows.Forms.GroupBox();
             this.radioButton13 = new System.Windows.Forms.RadioButton();
             this.radioButton14 = new System.Windows.Forms.RadioButton();
@@ -126,35 +137,41 @@
             this.label23 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.epicsMenuButton1 = new Epics.Controls.EpicsMenuButton(this.components);
-            this.label14 = new System.Windows.Forms.Label();
-            this.label15 = new System.Windows.Forms.Label();
-            this.label16 = new System.Windows.Forms.Label();
-            this.label19 = new System.Windows.Forms.Label();
-            this.epicsMenuButton2 = new Epics.Controls.EpicsMenuButton(this.components);
-            this.epicsMenuButton3 = new Epics.Controls.EpicsMenuButton(this.components);
-            this.epicsMenuButton4 = new Epics.Controls.EpicsMenuButton(this.components);
+            this.epicsLabel7 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel6 = new Epics.Controls.EpicsLabel(this.components);
+            this.radioButton17 = new System.Windows.Forms.RadioButton();
+            this.radioButton18 = new System.Windows.Forms.RadioButton();
+            this.label18 = new System.Windows.Forms.Label();
+            this.epicsLabel8 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel9 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel10 = new Epics.Controls.EpicsLabel(this.components);
+            this.epicsLabel11 = new Epics.Controls.EpicsLabel(this.components);
+            this.label20 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.epicsLabel1)).BeginInit();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel5)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox1)).BeginInit();
             this.groupBox4.SuspendLayout();
             this.groupBox5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel4)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel5)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel6)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel7)).BeginInit();
             this.groupBox6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton3)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton4)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel7)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel6)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel8)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel9)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel10)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel11)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -187,7 +204,7 @@
             // epicsLabel1
             // 
             this.epicsLabel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel1.ColorPV.AlarmColors = alarmColors1;
+            this.epicsLabel1.ColorPV.AlarmColors = alarmColors39;
             this.epicsLabel1.ColorPV.InvalidColor = System.Drawing.Color.White;
             this.epicsLabel1.ColorPV.PV = "";
             this.epicsLabel1.CustomFormat = "";
@@ -198,7 +215,7 @@
             this.epicsLabel1.Size = new System.Drawing.Size(100, 23);
             this.epicsLabel1.TabIndex = 18;
             this.epicsLabel1.Text = "dg535:GtDeviceName";
-            this.epicsLabel1.VisibilityPV.AlarmColors = alarmColors2;
+            this.epicsLabel1.VisibilityPV.AlarmColors = alarmColors40;
             this.epicsLabel1.VisibilityPV.PV = "";
             // 
             // shape7
@@ -271,6 +288,110 @@
             this.groupBox2.Text = "Trigger";
             this.groupBox2.Enter += new System.EventHandler(this.groupBox2_Enter);
             // 
+            // radioButton12
+            // 
+            this.radioButton12.AutoSize = true;
+            this.radioButton12.Location = new System.Drawing.Point(126, 58);
+            this.radioButton12.Name = "radioButton12";
+            this.radioButton12.Size = new System.Drawing.Size(14, 13);
+            this.radioButton12.TabIndex = 33;
+            this.radioButton12.TabStop = true;
+            this.radioButton12.UseVisualStyleBackColor = true;
+            // 
+            // radioButton11
+            // 
+            this.radioButton11.AutoSize = true;
+            this.radioButton11.Location = new System.Drawing.Point(37, 58);
+            this.radioButton11.Name = "radioButton11";
+            this.radioButton11.Size = new System.Drawing.Size(14, 13);
+            this.radioButton11.TabIndex = 32;
+            this.radioButton11.TabStop = true;
+            this.radioButton11.UseVisualStyleBackColor = true;
+            // 
+            // radioButton10
+            // 
+            this.radioButton10.AutoSize = true;
+            this.radioButton10.Location = new System.Drawing.Point(67, 58);
+            this.radioButton10.Name = "radioButton10";
+            this.radioButton10.Size = new System.Drawing.Size(14, 13);
+            this.radioButton10.TabIndex = 31;
+            this.radioButton10.TabStop = true;
+            this.radioButton10.UseVisualStyleBackColor = true;
+            // 
+            // radioButton9
+            // 
+            this.radioButton9.AutoSize = true;
+            this.radioButton9.Location = new System.Drawing.Point(96, 58);
+            this.radioButton9.Name = "radioButton9";
+            this.radioButton9.Size = new System.Drawing.Size(14, 13);
+            this.radioButton9.TabIndex = 30;
+            this.radioButton9.TabStop = true;
+            this.radioButton9.UseVisualStyleBackColor = true;
+            // 
+            // radioButton8
+            // 
+            this.radioButton8.AutoSize = true;
+            this.radioButton8.Location = new System.Drawing.Point(10, 58);
+            this.radioButton8.Name = "radioButton8";
+            this.radioButton8.Size = new System.Drawing.Size(14, 13);
+            this.radioButton8.TabIndex = 29;
+            this.radioButton8.TabStop = true;
+            this.radioButton8.UseVisualStyleBackColor = true;
+            this.radioButton8.CheckedChanged += new System.EventHandler(this.radioButton8_CheckedChanged);
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(152, 33);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 17;
+            this.button1.Text = "Single Shot";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click_1);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(122, 16);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(27, 13);
+            this.label9.TabIndex = 16;
+            this.label9.Text = "Line";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(93, 16);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(23, 13);
+            this.label8.TabIndex = 15;
+            this.label8.Text = "Bur";
+            // 
+            // shape6
+            // 
+            this.shape6.Location = new System.Drawing.Point(67, 38);
+            this.shape6.Name = "shape6";
+            this.shape6.ShapeType = Epics.Controls.Shape.Shapes.Ellipse;
+            this.shape6.Size = new System.Drawing.Size(14, 14);
+            this.shape6.TabIndex = 14;
+            // 
+            // shape5
+            // 
+            this.shape5.Location = new System.Drawing.Point(37, 38);
+            this.shape5.Name = "shape5";
+            this.shape5.ShapeType = Epics.Controls.Shape.Shapes.Ellipse;
+            this.shape5.Size = new System.Drawing.Size(14, 14);
+            this.shape5.TabIndex = 13;
+            // 
+            // shape4
+            // 
+            this.shape4.Location = new System.Drawing.Point(10, 38);
+            this.shape4.Name = "shape4";
+            this.shape4.ShapeType = Epics.Controls.Shape.Shapes.Ellipse;
+            this.shape4.Size = new System.Drawing.Size(13, 14);
+            this.shape4.TabIndex = 12;
+            this.shape4.Click += new System.EventHandler(this.shape4_Click);
+            // 
             // shape1
             // 
             this.shape1.Location = new System.Drawing.Point(126, 38);
@@ -315,61 +436,13 @@
             this.label7.TabIndex = 0;
             this.label7.Text = "Int";
             // 
-            // shape4
-            // 
-            this.shape4.Location = new System.Drawing.Point(10, 38);
-            this.shape4.Name = "shape4";
-            this.shape4.ShapeType = Epics.Controls.Shape.Shapes.Ellipse;
-            this.shape4.Size = new System.Drawing.Size(13, 14);
-            this.shape4.TabIndex = 12;
-            this.shape4.Click += new System.EventHandler(this.shape4_Click);
-            // 
-            // shape5
-            // 
-            this.shape5.Location = new System.Drawing.Point(37, 38);
-            this.shape5.Name = "shape5";
-            this.shape5.ShapeType = Epics.Controls.Shape.Shapes.Ellipse;
-            this.shape5.Size = new System.Drawing.Size(14, 14);
-            this.shape5.TabIndex = 13;
-            // 
-            // shape6
-            // 
-            this.shape6.Location = new System.Drawing.Point(67, 38);
-            this.shape6.Name = "shape6";
-            this.shape6.ShapeType = Epics.Controls.Shape.Shapes.Ellipse;
-            this.shape6.Size = new System.Drawing.Size(14, 14);
-            this.shape6.TabIndex = 14;
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(93, 16);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(23, 13);
-            this.label8.TabIndex = 15;
-            this.label8.Text = "Bur";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(122, 16);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(27, 13);
-            this.label9.TabIndex = 16;
-            this.label9.Text = "Line";
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(152, 33);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 17;
-            this.button1.Text = "Single Shot";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click_1);
-            // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.label20);
+            this.groupBox3.Controls.Add(this.epicsLabel8);
+            this.groupBox3.Controls.Add(this.epicsLabel9);
+            this.groupBox3.Controls.Add(this.epicsLabel10);
+            this.groupBox3.Controls.Add(this.epicsLabel11);
             this.groupBox3.Controls.Add(this.epicsMenuButton4);
             this.groupBox3.Controls.Add(this.epicsMenuButton3);
             this.groupBox3.Controls.Add(this.epicsMenuButton2);
@@ -393,39 +466,234 @@
             this.groupBox3.Controls.Add(this.label10);
             this.groupBox3.Location = new System.Drawing.Point(261, 54);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(361, 191);
+            this.groupBox3.Size = new System.Drawing.Size(470, 191);
             this.groupBox3.TabIndex = 20;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Delay";
             this.groupBox3.Enter += new System.EventHandler(this.groupBox3_Enter);
             // 
-            // label10
+            // epicsMenuButton4
             // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(19, 56);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(14, 13);
-            this.label10.TabIndex = 1;
-            this.label10.Text = "A";
-            this.label10.Click += new System.EventHandler(this.label10_Click);
+            this.epicsMenuButton4.ColorPV.AlarmColors = alarmColors49;
+            this.epicsMenuButton4.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsMenuButton4.ColorPV.PV = "";
+            this.epicsMenuButton4.Location = new System.Drawing.Point(58, 151);
+            this.epicsMenuButton4.Name = "epicsMenuButton4";
+            this.epicsMenuButton4.PV = "";
+            this.epicsMenuButton4.Size = new System.Drawing.Size(75, 23);
+            this.epicsMenuButton4.TabIndex = 31;
+            this.epicsMenuButton4.UseVisualStyleBackColor = true;
+            this.epicsMenuButton4.VisibilityPV.AlarmColors = alarmColors50;
+            this.epicsMenuButton4.VisibilityPV.PV = "";
             // 
-            // label11
+            // epicsMenuButton3
             // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(17, 151);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(15, 13);
-            this.label11.TabIndex = 2;
-            this.label11.Text = "D";
+            this.epicsMenuButton3.ColorPV.AlarmColors = alarmColors51;
+            this.epicsMenuButton3.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsMenuButton3.ColorPV.PV = "";
+            this.epicsMenuButton3.Location = new System.Drawing.Point(58, 118);
+            this.epicsMenuButton3.Name = "epicsMenuButton3";
+            this.epicsMenuButton3.PV = "";
+            this.epicsMenuButton3.Size = new System.Drawing.Size(75, 23);
+            this.epicsMenuButton3.TabIndex = 30;
+            this.epicsMenuButton3.UseVisualStyleBackColor = true;
+            this.epicsMenuButton3.VisibilityPV.AlarmColors = alarmColors52;
+            this.epicsMenuButton3.VisibilityPV.PV = "";
             // 
-            // label12
+            // epicsMenuButton2
             // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(18, 118);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(14, 13);
-            this.label12.TabIndex = 3;
-            this.label12.Text = "C";
+            this.epicsMenuButton2.ColorPV.AlarmColors = alarmColors53;
+            this.epicsMenuButton2.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsMenuButton2.ColorPV.PV = "";
+            this.epicsMenuButton2.Location = new System.Drawing.Point(58, 85);
+            this.epicsMenuButton2.Name = "epicsMenuButton2";
+            this.epicsMenuButton2.PV = "";
+            this.epicsMenuButton2.Size = new System.Drawing.Size(75, 23);
+            this.epicsMenuButton2.TabIndex = 29;
+            this.epicsMenuButton2.UseVisualStyleBackColor = true;
+            this.epicsMenuButton2.VisibilityPV.AlarmColors = alarmColors54;
+            this.epicsMenuButton2.VisibilityPV.PV = "";
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(67, 16);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(51, 13);
+            this.label19.TabIndex = 28;
+            this.label19.Text = "Rel Chan";
+            // 
+            // label16
+            // 
+            this.label16.AutoSize = true;
+            this.label16.Location = new System.Drawing.Point(16, 16);
+            this.label16.Name = "label16";
+            this.label16.Size = new System.Drawing.Size(46, 13);
+            this.label16.TabIndex = 27;
+            this.label16.Text = "Channel";
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.Location = new System.Drawing.Point(249, 16);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(88, 13);
+            this.label15.TabIndex = 26;
+            this.label15.Text = "Relative Channel";
+            this.label15.Click += new System.EventHandler(this.label15_Click);
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(143, 16);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(51, 13);
+            this.label14.TabIndex = 25;
+            this.label14.Text = "Set delay";
+            this.label14.Click += new System.EventHandler(this.label14_Click);
+            // 
+            // epicsMenuButton1
+            // 
+            this.epicsMenuButton1.ColorPV.AlarmColors = alarmColors55;
+            this.epicsMenuButton1.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsMenuButton1.ColorPV.PV = "";
+            this.epicsMenuButton1.Location = new System.Drawing.Point(58, 53);
+            this.epicsMenuButton1.Name = "epicsMenuButton1";
+            this.epicsMenuButton1.PV = "";
+            this.epicsMenuButton1.Size = new System.Drawing.Size(75, 23);
+            this.epicsMenuButton1.TabIndex = 23;
+            this.epicsMenuButton1.UseVisualStyleBackColor = true;
+            this.epicsMenuButton1.VisibilityPV.AlarmColors = alarmColors56;
+            this.epicsMenuButton1.VisibilityPV.PV = "";
+            // 
+            // epicsLabel5
+            // 
+            this.epicsLabel5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel5.ColorPV.AlarmColors = alarmColors57;
+            this.epicsLabel5.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel5.ColorPV.PV = "";
+            this.epicsLabel5.CustomFormat = "";
+            this.epicsLabel5.Index = ((uint)(0u));
+            this.epicsLabel5.Location = new System.Drawing.Point(252, 151);
+            this.epicsLabel5.Name = "epicsLabel5";
+            this.epicsLabel5.PV = "dg535:GtDeviceName";
+            this.epicsLabel5.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel5.TabIndex = 22;
+            this.epicsLabel5.Text = "dg535:GtDeviceName";
+            this.epicsLabel5.VisibilityPV.AlarmColors = alarmColors58;
+            this.epicsLabel5.VisibilityPV.PV = "";
+            // 
+            // epicsLabel4
+            // 
+            this.epicsLabel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel4.ColorPV.AlarmColors = alarmColors59;
+            this.epicsLabel4.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel4.ColorPV.PV = "";
+            this.epicsLabel4.CustomFormat = "";
+            this.epicsLabel4.Index = ((uint)(0u));
+            this.epicsLabel4.Location = new System.Drawing.Point(252, 118);
+            this.epicsLabel4.Name = "epicsLabel4";
+            this.epicsLabel4.PV = "dg535:GtDeviceName";
+            this.epicsLabel4.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel4.TabIndex = 21;
+            this.epicsLabel4.Text = "dg535:GtDeviceName";
+            this.epicsLabel4.VisibilityPV.AlarmColors = alarmColors60;
+            this.epicsLabel4.VisibilityPV.PV = "";
+            // 
+            // epicsLabel3
+            // 
+            this.epicsLabel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel3.ColorPV.AlarmColors = alarmColors61;
+            this.epicsLabel3.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel3.ColorPV.PV = "";
+            this.epicsLabel3.CustomFormat = "";
+            this.epicsLabel3.Index = ((uint)(0u));
+            this.epicsLabel3.Location = new System.Drawing.Point(252, 85);
+            this.epicsLabel3.Name = "epicsLabel3";
+            this.epicsLabel3.PV = "dg535:GtDeviceName";
+            this.epicsLabel3.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel3.TabIndex = 20;
+            this.epicsLabel3.Text = "dg535:GtDeviceName";
+            this.epicsLabel3.VisibilityPV.AlarmColors = alarmColors62;
+            this.epicsLabel3.VisibilityPV.PV = "";
+            // 
+            // epicsLabel2
+            // 
+            this.epicsLabel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel2.ColorPV.AlarmColors = alarmColors63;
+            this.epicsLabel2.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel2.ColorPV.PV = "";
+            this.epicsLabel2.CustomFormat = "";
+            this.epicsLabel2.Index = ((uint)(0u));
+            this.epicsLabel2.Location = new System.Drawing.Point(252, 53);
+            this.epicsLabel2.Name = "epicsLabel2";
+            this.epicsLabel2.PV = "dg535:GtDeviceName";
+            this.epicsLabel2.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel2.TabIndex = 19;
+            this.epicsLabel2.Text = "dg535:GtDeviceName";
+            this.epicsLabel2.VisibilityPV.AlarmColors = alarmColors64;
+            this.epicsLabel2.VisibilityPV.PV = "";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.Location = new System.Drawing.Point(259, 62);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(0, 13);
+            this.label17.TabIndex = 9;
+            this.label17.Click += new System.EventHandler(this.label17_Click);
+            // 
+            // epicsTextBox4
+            // 
+            this.epicsTextBox4.ColorPV.AlarmColors = alarmColors65;
+            this.epicsTextBox4.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsTextBox4.ColorPV.PV = "";
+            this.epicsTextBox4.Location = new System.Drawing.Point(146, 118);
+            this.epicsTextBox4.Name = "epicsTextBox4";
+            this.epicsTextBox4.PV = "";
+            this.epicsTextBox4.Size = new System.Drawing.Size(100, 20);
+            this.epicsTextBox4.TabIndex = 8;
+            this.epicsTextBox4.VisibilityPV.AlarmColors = alarmColors66;
+            this.epicsTextBox4.VisibilityPV.PV = "";
+            // 
+            // epicsTextBox3
+            // 
+            this.epicsTextBox3.ColorPV.AlarmColors = alarmColors67;
+            this.epicsTextBox3.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsTextBox3.ColorPV.PV = "";
+            this.epicsTextBox3.Location = new System.Drawing.Point(146, 151);
+            this.epicsTextBox3.Name = "epicsTextBox3";
+            this.epicsTextBox3.PV = "";
+            this.epicsTextBox3.Size = new System.Drawing.Size(100, 20);
+            this.epicsTextBox3.TabIndex = 7;
+            this.epicsTextBox3.VisibilityPV.AlarmColors = alarmColors68;
+            this.epicsTextBox3.VisibilityPV.PV = "";
+            // 
+            // epicsTextBox2
+            // 
+            this.epicsTextBox2.ColorPV.AlarmColors = alarmColors69;
+            this.epicsTextBox2.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsTextBox2.ColorPV.PV = "";
+            this.epicsTextBox2.Location = new System.Drawing.Point(146, 85);
+            this.epicsTextBox2.Name = "epicsTextBox2";
+            this.epicsTextBox2.PV = "";
+            this.epicsTextBox2.Size = new System.Drawing.Size(100, 20);
+            this.epicsTextBox2.TabIndex = 6;
+            this.epicsTextBox2.VisibilityPV.AlarmColors = alarmColors70;
+            this.epicsTextBox2.VisibilityPV.PV = "";
+            // 
+            // epicsTextBox1
+            // 
+            this.epicsTextBox1.ColorPV.AlarmColors = alarmColors71;
+            this.epicsTextBox1.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsTextBox1.ColorPV.PV = "";
+            this.epicsTextBox1.Location = new System.Drawing.Point(146, 53);
+            this.epicsTextBox1.Name = "epicsTextBox1";
+            this.epicsTextBox1.PV = "";
+            this.epicsTextBox1.Size = new System.Drawing.Size(100, 20);
+            this.epicsTextBox1.TabIndex = 5;
+            this.epicsTextBox1.VisibilityPV.AlarmColors = alarmColors72;
+            this.epicsTextBox1.VisibilityPV.PV = "";
             // 
             // label13
             // 
@@ -436,66 +704,33 @@
             this.label13.TabIndex = 4;
             this.label13.Text = "B";
             // 
-            // epicsTextBox1
+            // label12
             // 
-            this.epicsTextBox1.ColorPV.AlarmColors = alarmColors25;
-            this.epicsTextBox1.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsTextBox1.ColorPV.PV = "";
-            this.epicsTextBox1.Location = new System.Drawing.Point(146, 53);
-            this.epicsTextBox1.Name = "epicsTextBox1";
-            this.epicsTextBox1.PV = "";
-            this.epicsTextBox1.Size = new System.Drawing.Size(100, 20);
-            this.epicsTextBox1.TabIndex = 5;
-            this.epicsTextBox1.VisibilityPV.AlarmColors = alarmColors26;
-            this.epicsTextBox1.VisibilityPV.PV = "";
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(18, 118);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(14, 13);
+            this.label12.TabIndex = 3;
+            this.label12.Text = "C";
             // 
-            // epicsTextBox2
+            // label11
             // 
-            this.epicsTextBox2.ColorPV.AlarmColors = alarmColors23;
-            this.epicsTextBox2.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsTextBox2.ColorPV.PV = "";
-            this.epicsTextBox2.Location = new System.Drawing.Point(146, 85);
-            this.epicsTextBox2.Name = "epicsTextBox2";
-            this.epicsTextBox2.PV = "";
-            this.epicsTextBox2.Size = new System.Drawing.Size(100, 20);
-            this.epicsTextBox2.TabIndex = 6;
-            this.epicsTextBox2.VisibilityPV.AlarmColors = alarmColors24;
-            this.epicsTextBox2.VisibilityPV.PV = "";
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(17, 151);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(15, 13);
+            this.label11.TabIndex = 2;
+            this.label11.Text = "D";
             // 
-            // epicsTextBox3
+            // label10
             // 
-            this.epicsTextBox3.ColorPV.AlarmColors = alarmColors21;
-            this.epicsTextBox3.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsTextBox3.ColorPV.PV = "";
-            this.epicsTextBox3.Location = new System.Drawing.Point(146, 151);
-            this.epicsTextBox3.Name = "epicsTextBox3";
-            this.epicsTextBox3.PV = "";
-            this.epicsTextBox3.Size = new System.Drawing.Size(100, 20);
-            this.epicsTextBox3.TabIndex = 7;
-            this.epicsTextBox3.VisibilityPV.AlarmColors = alarmColors22;
-            this.epicsTextBox3.VisibilityPV.PV = "";
-            // 
-            // epicsTextBox4
-            // 
-            this.epicsTextBox4.ColorPV.AlarmColors = alarmColors19;
-            this.epicsTextBox4.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsTextBox4.ColorPV.PV = "";
-            this.epicsTextBox4.Location = new System.Drawing.Point(146, 118);
-            this.epicsTextBox4.Name = "epicsTextBox4";
-            this.epicsTextBox4.PV = "";
-            this.epicsTextBox4.Size = new System.Drawing.Size(100, 20);
-            this.epicsTextBox4.TabIndex = 8;
-            this.epicsTextBox4.VisibilityPV.AlarmColors = alarmColors20;
-            this.epicsTextBox4.VisibilityPV.PV = "";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.Location = new System.Drawing.Point(259, 62);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(0, 13);
-            this.label17.TabIndex = 9;
-            this.label17.Click += new System.EventHandler(this.label17_Click);
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(19, 56);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(14, 13);
+            this.label10.TabIndex = 1;
+            this.label10.Text = "A";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // groupBox4
             // 
@@ -515,69 +750,16 @@
             this.groupBox4.Text = "Output Select";
             this.groupBox4.Enter += new System.EventHandler(this.groupBox4_Enter);
             // 
-            // label22
+            // radioButton7
             // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(6, 16);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(0, 13);
-            this.label22.TabIndex = 0;
-            this.label22.Click += new System.EventHandler(this.label22_Click);
-            // 
-            // radioButton1
-            // 
-            this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(6, 34);
-            this.radioButton1.Name = "radioButton1";
-            this.radioButton1.Size = new System.Drawing.Size(40, 17);
-            this.radioButton1.TabIndex = 28;
-            this.radioButton1.TabStop = true;
-            this.radioButton1.Text = "TO";
-            this.radioButton1.UseVisualStyleBackColor = true;
-            // 
-            // radioButton2
-            // 
-            this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(6, 149);
-            this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(33, 17);
-            this.radioButton2.TabIndex = 29;
-            this.radioButton2.TabStop = true;
-            this.radioButton2.Text = "D";
-            this.radioButton2.UseVisualStyleBackColor = true;
-            // 
-            // radioButton3
-            // 
-            this.radioButton3.AutoSize = true;
-            this.radioButton3.Location = new System.Drawing.Point(6, 172);
-            this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(40, 17);
-            this.radioButton3.TabIndex = 30;
-            this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "CD";
-            this.radioButton3.UseVisualStyleBackColor = true;
-            // 
-            // radioButton4
-            // 
-            this.radioButton4.AutoSize = true;
-            this.radioButton4.Location = new System.Drawing.Point(6, 57);
-            this.radioButton4.Name = "radioButton4";
-            this.radioButton4.Size = new System.Drawing.Size(32, 17);
-            this.radioButton4.TabIndex = 31;
-            this.radioButton4.TabStop = true;
-            this.radioButton4.Text = "A";
-            this.radioButton4.UseVisualStyleBackColor = true;
-            // 
-            // radioButton5
-            // 
-            this.radioButton5.AutoSize = true;
-            this.radioButton5.Location = new System.Drawing.Point(6, 80);
-            this.radioButton5.Name = "radioButton5";
-            this.radioButton5.Size = new System.Drawing.Size(32, 17);
-            this.radioButton5.TabIndex = 32;
-            this.radioButton5.TabStop = true;
-            this.radioButton5.Text = "B";
-            this.radioButton5.UseVisualStyleBackColor = true;
+            this.radioButton7.AutoSize = true;
+            this.radioButton7.Location = new System.Drawing.Point(6, 126);
+            this.radioButton7.Name = "radioButton7";
+            this.radioButton7.Size = new System.Drawing.Size(32, 17);
+            this.radioButton7.TabIndex = 34;
+            this.radioButton7.TabStop = true;
+            this.radioButton7.Text = "C";
+            this.radioButton7.UseVisualStyleBackColor = true;
             // 
             // radioButton6
             // 
@@ -590,16 +772,69 @@
             this.radioButton6.Text = "AB";
             this.radioButton6.UseVisualStyleBackColor = true;
             // 
-            // radioButton7
+            // radioButton5
             // 
-            this.radioButton7.AutoSize = true;
-            this.radioButton7.Location = new System.Drawing.Point(6, 126);
-            this.radioButton7.Name = "radioButton7";
-            this.radioButton7.Size = new System.Drawing.Size(32, 17);
-            this.radioButton7.TabIndex = 34;
-            this.radioButton7.TabStop = true;
-            this.radioButton7.Text = "C";
-            this.radioButton7.UseVisualStyleBackColor = true;
+            this.radioButton5.AutoSize = true;
+            this.radioButton5.Location = new System.Drawing.Point(6, 80);
+            this.radioButton5.Name = "radioButton5";
+            this.radioButton5.Size = new System.Drawing.Size(32, 17);
+            this.radioButton5.TabIndex = 32;
+            this.radioButton5.TabStop = true;
+            this.radioButton5.Text = "B";
+            this.radioButton5.UseVisualStyleBackColor = true;
+            // 
+            // radioButton4
+            // 
+            this.radioButton4.AutoSize = true;
+            this.radioButton4.Location = new System.Drawing.Point(6, 57);
+            this.radioButton4.Name = "radioButton4";
+            this.radioButton4.Size = new System.Drawing.Size(32, 17);
+            this.radioButton4.TabIndex = 31;
+            this.radioButton4.TabStop = true;
+            this.radioButton4.Text = "A";
+            this.radioButton4.UseVisualStyleBackColor = true;
+            // 
+            // radioButton3
+            // 
+            this.radioButton3.AutoSize = true;
+            this.radioButton3.Location = new System.Drawing.Point(6, 172);
+            this.radioButton3.Name = "radioButton3";
+            this.radioButton3.Size = new System.Drawing.Size(40, 17);
+            this.radioButton3.TabIndex = 30;
+            this.radioButton3.TabStop = true;
+            this.radioButton3.Text = "CD";
+            this.radioButton3.UseVisualStyleBackColor = true;
+            // 
+            // radioButton2
+            // 
+            this.radioButton2.AutoSize = true;
+            this.radioButton2.Location = new System.Drawing.Point(6, 149);
+            this.radioButton2.Name = "radioButton2";
+            this.radioButton2.Size = new System.Drawing.Size(33, 17);
+            this.radioButton2.TabIndex = 29;
+            this.radioButton2.TabStop = true;
+            this.radioButton2.Text = "D";
+            this.radioButton2.UseVisualStyleBackColor = true;
+            // 
+            // radioButton1
+            // 
+            this.radioButton1.AutoSize = true;
+            this.radioButton1.Location = new System.Drawing.Point(6, 34);
+            this.radioButton1.Name = "radioButton1";
+            this.radioButton1.Size = new System.Drawing.Size(40, 17);
+            this.radioButton1.TabIndex = 28;
+            this.radioButton1.TabStop = true;
+            this.radioButton1.Text = "TO";
+            this.radioButton1.UseVisualStyleBackColor = true;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(6, 16);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(0, 13);
+            this.label22.TabIndex = 0;
+            this.label22.Click += new System.EventHandler(this.label22_Click);
             // 
             // groupBox5
             // 
@@ -616,192 +851,6 @@
             this.groupBox5.TabIndex = 24;
             this.groupBox5.TabStop = false;
             this.groupBox5.Text = "Output";
-            // 
-            // radioButton8
-            // 
-            this.radioButton8.AutoSize = true;
-            this.radioButton8.Location = new System.Drawing.Point(10, 58);
-            this.radioButton8.Name = "radioButton8";
-            this.radioButton8.Size = new System.Drawing.Size(14, 13);
-            this.radioButton8.TabIndex = 29;
-            this.radioButton8.TabStop = true;
-            this.radioButton8.UseVisualStyleBackColor = true;
-            this.radioButton8.CheckedChanged += new System.EventHandler(this.radioButton8_CheckedChanged);
-            // 
-            // radioButton9
-            // 
-            this.radioButton9.AutoSize = true;
-            this.radioButton9.Location = new System.Drawing.Point(96, 58);
-            this.radioButton9.Name = "radioButton9";
-            this.radioButton9.Size = new System.Drawing.Size(14, 13);
-            this.radioButton9.TabIndex = 30;
-            this.radioButton9.TabStop = true;
-            this.radioButton9.UseVisualStyleBackColor = true;
-            // 
-            // radioButton10
-            // 
-            this.radioButton10.AutoSize = true;
-            this.radioButton10.Location = new System.Drawing.Point(67, 58);
-            this.radioButton10.Name = "radioButton10";
-            this.radioButton10.Size = new System.Drawing.Size(14, 13);
-            this.radioButton10.TabIndex = 31;
-            this.radioButton10.TabStop = true;
-            this.radioButton10.UseVisualStyleBackColor = true;
-            // 
-            // radioButton11
-            // 
-            this.radioButton11.AutoSize = true;
-            this.radioButton11.Location = new System.Drawing.Point(37, 58);
-            this.radioButton11.Name = "radioButton11";
-            this.radioButton11.Size = new System.Drawing.Size(14, 13);
-            this.radioButton11.TabIndex = 32;
-            this.radioButton11.TabStop = true;
-            this.radioButton11.UseVisualStyleBackColor = true;
-            // 
-            // radioButton12
-            // 
-            this.radioButton12.AutoSize = true;
-            this.radioButton12.Location = new System.Drawing.Point(126, 58);
-            this.radioButton12.Name = "radioButton12";
-            this.radioButton12.Size = new System.Drawing.Size(14, 13);
-            this.radioButton12.TabIndex = 33;
-            this.radioButton12.TabStop = true;
-            this.radioButton12.UseVisualStyleBackColor = true;
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(79, 19);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(85, 13);
-            this.label18.TabIndex = 24;
-            this.label18.Text = "Output selected:";
-            this.label18.Click += new System.EventHandler(this.label18_Click);
-            // 
-            // radioButton17
-            // 
-            this.radioButton17.AutoSize = true;
-            this.radioButton17.Location = new System.Drawing.Point(78, 79);
-            this.radioButton17.Name = "radioButton17";
-            this.radioButton17.Size = new System.Drawing.Size(94, 17);
-            this.radioButton17.TabIndex = 46;
-            this.radioButton17.TabStop = true;
-            this.radioButton17.Text = "Load 50 Ohms";
-            this.radioButton17.UseVisualStyleBackColor = true;
-            // 
-            // radioButton18
-            // 
-            this.radioButton18.AutoSize = true;
-            this.radioButton18.Location = new System.Drawing.Point(78, 56);
-            this.radioButton18.Name = "radioButton18";
-            this.radioButton18.Size = new System.Drawing.Size(84, 17);
-            this.radioButton18.TabIndex = 45;
-            this.radioButton18.TabStop = true;
-            this.radioButton18.Text = "Load High Z";
-            this.radioButton18.UseVisualStyleBackColor = true;
-            this.radioButton18.CheckedChanged += new System.EventHandler(this.radioButton18_CheckedChanged);
-            // 
-            // epicsLabel2
-            // 
-            this.epicsLabel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel2.ColorPV.AlarmColors = alarmColors17;
-            this.epicsLabel2.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsLabel2.ColorPV.PV = "";
-            this.epicsLabel2.CustomFormat = "";
-            this.epicsLabel2.Index = ((uint)(0u));
-            this.epicsLabel2.Location = new System.Drawing.Point(252, 53);
-            this.epicsLabel2.Name = "epicsLabel2";
-            this.epicsLabel2.PV = "dg535:GtDeviceName";
-            this.epicsLabel2.Size = new System.Drawing.Size(100, 23);
-            this.epicsLabel2.TabIndex = 19;
-            this.epicsLabel2.Text = "dg535:GtDeviceName";
-            this.epicsLabel2.VisibilityPV.AlarmColors = alarmColors18;
-            this.epicsLabel2.VisibilityPV.PV = "";
-            // 
-            // epicsLabel3
-            // 
-            this.epicsLabel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel3.ColorPV.AlarmColors = alarmColors15;
-            this.epicsLabel3.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsLabel3.ColorPV.PV = "";
-            this.epicsLabel3.CustomFormat = "";
-            this.epicsLabel3.Index = ((uint)(0u));
-            this.epicsLabel3.Location = new System.Drawing.Point(252, 85);
-            this.epicsLabel3.Name = "epicsLabel3";
-            this.epicsLabel3.PV = "dg535:GtDeviceName";
-            this.epicsLabel3.Size = new System.Drawing.Size(100, 23);
-            this.epicsLabel3.TabIndex = 20;
-            this.epicsLabel3.Text = "dg535:GtDeviceName";
-            this.epicsLabel3.VisibilityPV.AlarmColors = alarmColors16;
-            this.epicsLabel3.VisibilityPV.PV = "";
-            // 
-            // epicsLabel4
-            // 
-            this.epicsLabel4.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel4.ColorPV.AlarmColors = alarmColors13;
-            this.epicsLabel4.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsLabel4.ColorPV.PV = "";
-            this.epicsLabel4.CustomFormat = "";
-            this.epicsLabel4.Index = ((uint)(0u));
-            this.epicsLabel4.Location = new System.Drawing.Point(252, 118);
-            this.epicsLabel4.Name = "epicsLabel4";
-            this.epicsLabel4.PV = "dg535:GtDeviceName";
-            this.epicsLabel4.Size = new System.Drawing.Size(100, 23);
-            this.epicsLabel4.TabIndex = 21;
-            this.epicsLabel4.Text = "dg535:GtDeviceName";
-            this.epicsLabel4.VisibilityPV.AlarmColors = alarmColors14;
-            this.epicsLabel4.VisibilityPV.PV = "";
-            // 
-            // epicsLabel5
-            // 
-            this.epicsLabel5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel5.ColorPV.AlarmColors = alarmColors11;
-            this.epicsLabel5.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsLabel5.ColorPV.PV = "";
-            this.epicsLabel5.CustomFormat = "";
-            this.epicsLabel5.Index = ((uint)(0u));
-            this.epicsLabel5.Location = new System.Drawing.Point(252, 151);
-            this.epicsLabel5.Name = "epicsLabel5";
-            this.epicsLabel5.PV = "dg535:GtDeviceName";
-            this.epicsLabel5.Size = new System.Drawing.Size(100, 23);
-            this.epicsLabel5.TabIndex = 22;
-            this.epicsLabel5.Text = "dg535:GtDeviceName";
-            this.epicsLabel5.VisibilityPV.AlarmColors = alarmColors12;
-            this.epicsLabel5.VisibilityPV.PV = "";
-            // 
-            // epicsLabel6
-            // 
-            this.epicsLabel6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel6.ColorPV.AlarmColors = alarmColors29;
-            this.epicsLabel6.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsLabel6.ColorPV.PV = "";
-            this.epicsLabel6.CustomFormat = "";
-            this.epicsLabel6.Index = ((uint)(0u));
-            this.epicsLabel6.Location = new System.Drawing.Point(168, 16);
-            this.epicsLabel6.Name = "epicsLabel6";
-            this.epicsLabel6.PV = "dg535:GtDeviceName";
-            this.epicsLabel6.Size = new System.Drawing.Size(100, 23);
-            this.epicsLabel6.TabIndex = 47;
-            this.epicsLabel6.Text = "dg535:GtDeviceName";
-            this.epicsLabel6.VisibilityPV.AlarmColors = alarmColors30;
-            this.epicsLabel6.VisibilityPV.PV = "";
-            // 
-            // epicsLabel7
-            // 
-            this.epicsLabel7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.epicsLabel7.ColorPV.AlarmColors = alarmColors27;
-            this.epicsLabel7.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsLabel7.ColorPV.PV = "";
-            this.epicsLabel7.CustomFormat = "";
-            this.epicsLabel7.Index = ((uint)(0u));
-            this.epicsLabel7.Location = new System.Drawing.Point(169, 56);
-            this.epicsLabel7.Name = "epicsLabel7";
-            this.epicsLabel7.PV = "dg535:GtDeviceName";
-            this.epicsLabel7.Size = new System.Drawing.Size(100, 23);
-            this.epicsLabel7.TabIndex = 48;
-            this.epicsLabel7.Text = "dg535:GtDeviceName";
-            this.epicsLabel7.VisibilityPV.AlarmColors = alarmColors28;
-            this.epicsLabel7.VisibilityPV.PV = "";
             // 
             // groupBox6
             // 
@@ -932,98 +981,149 @@
             this.label25.TabIndex = 45;
             this.label25.Text = "TTL";
             // 
-            // epicsMenuButton1
+            // epicsLabel7
             // 
-            this.epicsMenuButton1.ColorPV.AlarmColors = alarmColors9;
-            this.epicsMenuButton1.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsMenuButton1.ColorPV.PV = "";
-            this.epicsMenuButton1.Location = new System.Drawing.Point(58, 53);
-            this.epicsMenuButton1.Name = "epicsMenuButton1";
-            this.epicsMenuButton1.PV = "";
-            this.epicsMenuButton1.Size = new System.Drawing.Size(75, 23);
-            this.epicsMenuButton1.TabIndex = 23;
-            this.epicsMenuButton1.UseVisualStyleBackColor = true;
-            this.epicsMenuButton1.VisibilityPV.AlarmColors = alarmColors10;
-            this.epicsMenuButton1.VisibilityPV.PV = "";
+            this.epicsLabel7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel7.ColorPV.AlarmColors = alarmColors73;
+            this.epicsLabel7.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel7.ColorPV.PV = "";
+            this.epicsLabel7.CustomFormat = "";
+            this.epicsLabel7.Index = ((uint)(0u));
+            this.epicsLabel7.Location = new System.Drawing.Point(169, 56);
+            this.epicsLabel7.Name = "epicsLabel7";
+            this.epicsLabel7.PV = "dg535:GtDeviceName";
+            this.epicsLabel7.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel7.TabIndex = 48;
+            this.epicsLabel7.Text = "dg535:GtDeviceName";
+            this.epicsLabel7.VisibilityPV.AlarmColors = alarmColors74;
+            this.epicsLabel7.VisibilityPV.PV = "";
             // 
-            // label14
+            // epicsLabel6
             // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(143, 16);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(51, 13);
-            this.label14.TabIndex = 25;
-            this.label14.Text = "Set delay";
-            this.label14.Click += new System.EventHandler(this.label14_Click);
+            this.epicsLabel6.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel6.ColorPV.AlarmColors = alarmColors75;
+            this.epicsLabel6.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel6.ColorPV.PV = "";
+            this.epicsLabel6.CustomFormat = "";
+            this.epicsLabel6.Index = ((uint)(0u));
+            this.epicsLabel6.Location = new System.Drawing.Point(168, 16);
+            this.epicsLabel6.Name = "epicsLabel6";
+            this.epicsLabel6.PV = "dg535:GtDeviceName";
+            this.epicsLabel6.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel6.TabIndex = 47;
+            this.epicsLabel6.Text = "dg535:GtDeviceName";
+            this.epicsLabel6.VisibilityPV.AlarmColors = alarmColors76;
+            this.epicsLabel6.VisibilityPV.PV = "";
             // 
-            // label15
+            // radioButton17
             // 
-            this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(249, 16);
-            this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(63, 13);
-            this.label15.TabIndex = 26;
-            this.label15.Text = "Delay value";
+            this.radioButton17.AutoSize = true;
+            this.radioButton17.Location = new System.Drawing.Point(78, 79);
+            this.radioButton17.Name = "radioButton17";
+            this.radioButton17.Size = new System.Drawing.Size(94, 17);
+            this.radioButton17.TabIndex = 46;
+            this.radioButton17.TabStop = true;
+            this.radioButton17.Text = "Load 50 Ohms";
+            this.radioButton17.UseVisualStyleBackColor = true;
             // 
-            // label16
+            // radioButton18
             // 
-            this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(16, 16);
-            this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(46, 13);
-            this.label16.TabIndex = 27;
-            this.label16.Text = "Channel";
+            this.radioButton18.AutoSize = true;
+            this.radioButton18.Location = new System.Drawing.Point(78, 56);
+            this.radioButton18.Name = "radioButton18";
+            this.radioButton18.Size = new System.Drawing.Size(84, 17);
+            this.radioButton18.TabIndex = 45;
+            this.radioButton18.TabStop = true;
+            this.radioButton18.Text = "Load High Z";
+            this.radioButton18.UseVisualStyleBackColor = true;
+            this.radioButton18.CheckedChanged += new System.EventHandler(this.radioButton18_CheckedChanged);
             // 
-            // label19
+            // label18
             // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(67, 16);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(51, 13);
-            this.label19.TabIndex = 28;
-            this.label19.Text = "Rel Chan";
+            this.label18.AutoSize = true;
+            this.label18.Location = new System.Drawing.Point(79, 19);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(85, 13);
+            this.label18.TabIndex = 24;
+            this.label18.Text = "Output selected:";
+            this.label18.Click += new System.EventHandler(this.label18_Click);
             // 
-            // epicsMenuButton2
+            // epicsLabel8
             // 
-            this.epicsMenuButton2.ColorPV.AlarmColors = alarmColors7;
-            this.epicsMenuButton2.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsMenuButton2.ColorPV.PV = "";
-            this.epicsMenuButton2.Location = new System.Drawing.Point(58, 85);
-            this.epicsMenuButton2.Name = "epicsMenuButton2";
-            this.epicsMenuButton2.PV = "";
-            this.epicsMenuButton2.Size = new System.Drawing.Size(75, 23);
-            this.epicsMenuButton2.TabIndex = 29;
-            this.epicsMenuButton2.UseVisualStyleBackColor = true;
-            this.epicsMenuButton2.VisibilityPV.AlarmColors = alarmColors8;
-            this.epicsMenuButton2.VisibilityPV.PV = "";
+            this.epicsLabel8.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel8.ColorPV.AlarmColors = alarmColors41;
+            this.epicsLabel8.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel8.ColorPV.PV = "";
+            this.epicsLabel8.CustomFormat = "";
+            this.epicsLabel8.Index = ((uint)(0u));
+            this.epicsLabel8.Location = new System.Drawing.Point(358, 151);
+            this.epicsLabel8.Name = "epicsLabel8";
+            this.epicsLabel8.PV = "dg535:GtDeviceName";
+            this.epicsLabel8.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel8.TabIndex = 35;
+            this.epicsLabel8.Text = "dg535:GtDeviceName";
+            this.epicsLabel8.VisibilityPV.AlarmColors = alarmColors42;
+            this.epicsLabel8.VisibilityPV.PV = "";
             // 
-            // epicsMenuButton3
+            // epicsLabel9
             // 
-            this.epicsMenuButton3.ColorPV.AlarmColors = alarmColors5;
-            this.epicsMenuButton3.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsMenuButton3.ColorPV.PV = "";
-            this.epicsMenuButton3.Location = new System.Drawing.Point(58, 118);
-            this.epicsMenuButton3.Name = "epicsMenuButton3";
-            this.epicsMenuButton3.PV = "";
-            this.epicsMenuButton3.Size = new System.Drawing.Size(75, 23);
-            this.epicsMenuButton3.TabIndex = 30;
-            this.epicsMenuButton3.UseVisualStyleBackColor = true;
-            this.epicsMenuButton3.VisibilityPV.AlarmColors = alarmColors6;
-            this.epicsMenuButton3.VisibilityPV.PV = "";
+            this.epicsLabel9.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel9.ColorPV.AlarmColors = alarmColors43;
+            this.epicsLabel9.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel9.ColorPV.PV = "";
+            this.epicsLabel9.CustomFormat = "";
+            this.epicsLabel9.Index = ((uint)(0u));
+            this.epicsLabel9.Location = new System.Drawing.Point(358, 118);
+            this.epicsLabel9.Name = "epicsLabel9";
+            this.epicsLabel9.PV = "dg535:GtDeviceName";
+            this.epicsLabel9.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel9.TabIndex = 34;
+            this.epicsLabel9.Text = "dg535:GtDeviceName";
+            this.epicsLabel9.VisibilityPV.AlarmColors = alarmColors44;
+            this.epicsLabel9.VisibilityPV.PV = "";
             // 
-            // epicsMenuButton4
+            // epicsLabel10
             // 
-            this.epicsMenuButton4.ColorPV.AlarmColors = alarmColors3;
-            this.epicsMenuButton4.ColorPV.InvalidColor = System.Drawing.Color.White;
-            this.epicsMenuButton4.ColorPV.PV = "";
-            this.epicsMenuButton4.Location = new System.Drawing.Point(58, 151);
-            this.epicsMenuButton4.Name = "epicsMenuButton4";
-            this.epicsMenuButton4.PV = "";
-            this.epicsMenuButton4.Size = new System.Drawing.Size(75, 23);
-            this.epicsMenuButton4.TabIndex = 31;
-            this.epicsMenuButton4.UseVisualStyleBackColor = true;
-            this.epicsMenuButton4.VisibilityPV.AlarmColors = alarmColors4;
-            this.epicsMenuButton4.VisibilityPV.PV = "";
+            this.epicsLabel10.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel10.ColorPV.AlarmColors = alarmColors45;
+            this.epicsLabel10.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel10.ColorPV.PV = "";
+            this.epicsLabel10.CustomFormat = "";
+            this.epicsLabel10.Index = ((uint)(0u));
+            this.epicsLabel10.Location = new System.Drawing.Point(358, 85);
+            this.epicsLabel10.Name = "epicsLabel10";
+            this.epicsLabel10.PV = "dg535:GtDeviceName";
+            this.epicsLabel10.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel10.TabIndex = 33;
+            this.epicsLabel10.Text = "dg535:GtDeviceName";
+            this.epicsLabel10.VisibilityPV.AlarmColors = alarmColors46;
+            this.epicsLabel10.VisibilityPV.PV = "";
+            // 
+            // epicsLabel11
+            // 
+            this.epicsLabel11.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.epicsLabel11.ColorPV.AlarmColors = alarmColors47;
+            this.epicsLabel11.ColorPV.InvalidColor = System.Drawing.Color.White;
+            this.epicsLabel11.ColorPV.PV = "";
+            this.epicsLabel11.CustomFormat = "";
+            this.epicsLabel11.Index = ((uint)(0u));
+            this.epicsLabel11.Location = new System.Drawing.Point(358, 53);
+            this.epicsLabel11.Name = "epicsLabel11";
+            this.epicsLabel11.PV = "dg535:GtDeviceName";
+            this.epicsLabel11.Size = new System.Drawing.Size(100, 23);
+            this.epicsLabel11.TabIndex = 32;
+            this.epicsLabel11.Text = "dg535:GtDeviceName";
+            this.epicsLabel11.VisibilityPV.AlarmColors = alarmColors48;
+            this.epicsLabel11.VisibilityPV.PV = "";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(355, 16);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(63, 13);
+            this.label20.TabIndex = 36;
+            this.label20.Text = "Delay value";
             // 
             // Form1
             // 
@@ -1045,26 +1145,30 @@
             this.groupBox2.PerformLayout();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel5)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsTextBox1)).EndInit();
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
             this.groupBox5.ResumeLayout(false);
             this.groupBox5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel4)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel5)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel6)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel7)).EndInit();
             this.groupBox6.ResumeLayout(false);
             this.groupBox6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton3)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.epicsMenuButton4)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel7)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel6)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel8)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel9)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel10)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.epicsLabel11)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -1147,6 +1251,11 @@
         private System.Windows.Forms.Label label19;
         private System.Windows.Forms.Label label16;
         private System.Windows.Forms.Label label15;
+        private System.Windows.Forms.Label label20;
+        private Epics.Controls.EpicsLabel epicsLabel8;
+        private Epics.Controls.EpicsLabel epicsLabel9;
+        private Epics.Controls.EpicsLabel epicsLabel10;
+        private Epics.Controls.EpicsLabel epicsLabel11;
 
 
     }
